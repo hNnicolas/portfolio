@@ -1,0 +1,51 @@
+.Footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Footer .btn {
+    padding: 3px 7px;
+    border-radius: 50%;
+    background: #545454;
+    transition: 0.4s;
+    transform: translateX(0);
+    margin-left: 2%;
+    border: 2px solid gray;
+    color: black;
+}
+.Footer .footer-haut {
+    display: flex;
+    justify-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+
+}
+.Footer .active {
+    font-size: 27px;
+    font-weight: 600;
+    color: gray;
+    transform: translateX(0);
+    transition: 0.4s;
+    margin-left: 2px;
+}
+.Footer .paragraphe {
+    margin-left: 1%;
+}
+
+/* --- MEDIA QUERY --- */
+
+@media (max-width: 800px) {
+    .Footer {
+        display: block;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .Footer .footer-haut {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+}
