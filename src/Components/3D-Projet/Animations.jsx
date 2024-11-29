@@ -25,7 +25,7 @@ const Projet = () => {
         </p>
         <div className="links">
           <a
-            href="helmet-9ejc2q9fb-hnnicolas-projects.vercel.app"
+            href="https://3d-helmet.vercel.app/"
             target={"_blank"}
             className="gray-link"
           >
@@ -49,7 +49,7 @@ const Projet = () => {
         </p>
         <div className="links">
           <a
-            href="3-d-haunted-house-ncwob6uig-hnnicolas-projects.vercel.app"
+            href="https://haunted-house-ghost.vercel.app/"
             className="gray-link"
             target={"_blank"}
           >
