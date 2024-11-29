@@ -19,7 +19,7 @@ const Projet = () => {
     <div ref={newProjetRef} id="projet" className="Projets">
       <div className="projet">
         <h1 className="titre">Helmet en 3D WebGL</h1>
-        <img src="/assets/helmet.png" alt="3D Helmet WebGL" className="projet-img" />
+        <img src="/assets/Helmet.png" alt="3D Helmet WebGL" className="projet-img" />
         <p>
         <strong>Helmet en 3D</strong> Le projet Helmet en 3D propose une application web interactive qui vous permet d'explorer un modèle de casque en 3D. Vous pouvez manipuler le modèle en temps réel, ajuster l'angle de vue et interagir avec des animations dynamiques qui révèlent des détails cachés du casque. Grâce à l'utilisation de Three.js et WebGL, le modèle est rendu de manière fluide et réaliste. Des éléments de texte en HTML sont intégrés pour fournir des informations contextuelles et des descriptions interactives du casque. Ce projet allie interactivité et technologie pour offrir une expérience utilisateur immersive et détaillée. Un véritable exemple de l'intégration de la 3D dans un environnement web interactif.
         </p>
