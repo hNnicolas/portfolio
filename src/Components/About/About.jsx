@@ -28,7 +28,7 @@ const About = () => {
   return (
     <div id="about" className="abouts">
       <div ref={newsletterRef} className="about-img">
-        <a href="CV_huang_nicolas.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/CV_huang_nicolas.pdf" target="_blank" rel="noopener noreferrer">
           <img src="/CV_huang_nicolas.webp" alt="CV" className="img-cv" />
         </a>
       </div>
