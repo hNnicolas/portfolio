@@ -53,7 +53,7 @@ const About = () => {
           <strong>grandir professionnellement</strong>, tout en{" "}
           <strong>apportant une réelle valeur ajoutée</strong> à l'équipe qui m'accueillera.
         </p>
-        <a href="/CV_Huang_nicolas.pdf" download="/cv.pdf">
+        <a href="/CV_Huang_nicolas.pdf" download="HUANG_Nicolas.pdf">
           Téléchargez mon CV
         </a>
       </div>
