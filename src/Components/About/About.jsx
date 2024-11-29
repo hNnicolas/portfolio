@@ -1,7 +1,5 @@
 import { useEffect, useRef } from "react";
 import "./About.css";
-import CV from "../../assets/CV_huang_nicolas.webp";
-import Cv_pdf from "../../assets/CV_huang_nicolas.pdf";
 
 const About = () => {
   const newsletterRef = useRef();
@@ -30,8 +28,9 @@ const About = () => {
   return (
     <div id="about" className="abouts">
       <div ref={newsletterRef} className="about-img">
-        <a href={Cv_pdf} target="_blank" rel="noopener noreferrer">
-          <img src={CV} alt="CV" className="img-cv" />
+        {/* Afficher l'image du CV */}
+        <a href="/public/assets/CV_huang_nicolas.pdf" target="_blank" rel="noopener noreferrer">
+          <img src="/public/assets/CV_huang_nicolas.webp" alt="CV" className="img-cv" />
         </a>
       </div>
       <div ref={newsletterRef2} className="about-text">
@@ -55,8 +54,9 @@ const About = () => {
           <strong>grandir professionnellement</strong>, tout en{" "}
           <strong>apportant une réelle valeur ajoutée</strong> à l'équipe qui m'accueillera.
         </p>
-        <a download="" href={Cv_pdf}>
-          Téléchargez CV
+        {/* Lien pour télécharger le CV */}
+        <a download href="/assets/CV_huang_nicolas.pdf">
+          Téléchargez mon CV
         </a>
       </div>
     </div>

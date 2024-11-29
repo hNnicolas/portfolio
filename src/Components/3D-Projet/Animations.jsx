@@ -99,4 +99,4 @@ const Projet = () => {
   )
 }
 
-export default Animations
+export default Projet
