@@ -1,9 +1,5 @@
 import React, { useEffect } from "react"
 import "./Intro.css"
-import introImg from "../../assets/Profil_photo.jpg"
-import dark_arrow from "../../assets/dark-arrow.png"
-import icon_linkedin from "../../assets/icon-linkedin.png"
-import icon_github from "../../assets/icon-github.png"
 
 const Intro = () => {
   useEffect(() => {
@@ -33,10 +29,10 @@ const Intro = () => {
             Nicolas HUANG
             <a  href="https://www.linkedin.com/in/huang-nicolas/"
               target="_blank" >
-              <img src={icon_linkedin} alt="LinkedIn Icon" />
+              <img src="/assets/icon-linkedin.png" alt="LinkedIn Icon" />
             </a>
             <a href="https://github.com/hNnicolas" target="_blank">
-              <img src={icon_github} alt="GitHub Icon" />
+              <img src="/assets/icon-github.png" alt="GitHub Icon" />
             </a>
           </h1>
           <h2>Développeur Web Full Stack</h2>
@@ -47,12 +43,12 @@ const Intro = () => {
           </p>
           <button className="btn" onClick={scrollToContact}>
             Contactez-moi
-            <img src={dark_arrow} alt="Arrow Icon" />
+            <img src="/assets/dark-arrow.png" alt="Arrow Icon" />
           </button>
         </div>
         <div className="intro-right">
           <link rel="stylesheet" href="" />
-          <img src={introImg} alt="intro Image" className="intro-img" />
+          <img src="/assets/Profil_photo.jpg" alt="intro Image" className="intro-img" />
         </div>
       </div>
     </div>

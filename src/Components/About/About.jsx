@@ -28,9 +28,8 @@ const About = () => {
   return (
     <div id="about" className="abouts">
       <div ref={newsletterRef} className="about-img">
-        {/* Afficher l'image du CV */}
-        <a href="/public/assets/CV_huang_nicolas.pdf" target="_blank" rel="noopener noreferrer">
-          <img src="/public/assets/CV_huang_nicolas.webp" alt="CV" className="img-cv" />
+        <a href="CV_huang_nicolas.pdf" target="_blank" rel="noopener noreferrer">
+          <img src="/CV_huang_nicolas.webp" alt="CV" className="img-cv" />
         </a>
       </div>
       <div ref={newsletterRef2} className="about-text">
@@ -54,8 +53,7 @@ const About = () => {
           <strong>grandir professionnellement</strong>, tout en{" "}
           <strong>apportant une réelle valeur ajoutée</strong> à l'équipe qui m'accueillera.
         </p>
-        {/* Lien pour télécharger le CV */}
-        <a download href="/assets/CV_huang_nicolas.pdf">
+        <a href="/CV_Huang_nicolas.pdf" download="/cv.pdf">
           Téléchargez mon CV
         </a>
       </div>

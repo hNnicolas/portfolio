@@ -1,9 +1,5 @@
 import React, { useEffect, useRef } from "react"
 import "./Skills.css"
-import Node from "../../assets/node.png"
-import Sass from "../../assets/Sass.png"
-import express from "../../assets/express.svg"
-import mysql from "../../assets/mysql.png"
 
 const Skills = () => {
   const newSkillsRef = useRef()
@@ -70,7 +66,7 @@ const Skills = () => {
           </li>
           <li>
             <h3>
-              - Sass <img src={Sass} alt="Sass Logo" className="logo" />
+              - Sass <img src="/assets/Sass.png" alt="Sass Logo" className="logo" />
             </h3>
           </li>
           <li>
@@ -110,7 +106,7 @@ const Skills = () => {
         <ul>
           <li>
             <h3>
-              - Node.js <img src={Node} alt="Node.js Logo" className="logo" />
+              - Node.js <img src="/assets/node.png" alt="Node.js Logo" className="logo" />
             </h3>
           </li>
           <li>
@@ -136,12 +132,12 @@ const Skills = () => {
           <li>
             <h3>
               - Express{" "}
-              <img src={express} alt="Express logo" className="logo" />
+              <img src="/assets/express.svg" alt="Express logo" className="logo" />
             </h3>
           </li>
           <li>
             <h3>
-              - MySQL <img src={mysql} alt="Express logo" className="logo" />
+              - MySQL <img src="/assets/mysql.png" alt="Express logo" className="logo" />
             </h3>
           </li>
         </ul>

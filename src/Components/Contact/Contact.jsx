@@ -1,8 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
 import "./Contact.css";
-import mail_icon from "../../assets/mail_icon.png";
-import localisation_icon from "../../assets/localisation_icon.png";
-import tel_icon from "../../assets/tel_icon.png";
 
 const Contact = () => {
   const [result, setResult] = useState("");
@@ -90,13 +87,13 @@ const Contact = () => {
           </p>
           <div className="contact-details">
             <div className="contact-detail">
-              <img src={mail_icon} alt="" /> <p>huang.nicola@gmail.com</p>
+              <img src="/assets/mail_icon.png" alt="mailbox" /> <p>huang.nicola@gmail.com</p>
             </div>
             <div className="contact-detail">
-              <img src={tel_icon} alt="" /> <p>+33 6 22 41 40 99</p>
+              <img src="/assets/tel_icon.png" alt="telephone" /> <p>+33 6 22 41 40 99</p>
             </div>
             <div className="contact-detail">
-              <img src={localisation_icon} alt="" /> <p>Paris, France</p>
+              <img src="/assets/localisation_icon.png" alt="location" /> <p>Paris, France</p>
             </div>
           </div>
         </div>

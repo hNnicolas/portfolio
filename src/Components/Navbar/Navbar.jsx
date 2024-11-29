@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react"
 import { Link } from "react-scroll"
-import Sun_icon from "../../assets/icon_sun.png"
-import Moon_icon from "../../assets/icon_moon.png"
 import "./Navbar.css"
 
 const Navbar = () => {
@@ -34,7 +32,7 @@ const Navbar = () => {
       <nav>
         <button onClick={toggleTheme} className="theme">
           <img
-            src={theme === "dark-mode" ? Sun_icon : Moon_icon}
+            src={theme === "dark-mode" ? "/assets/icon_sun.png" : "/assets/icon_moon.png"}
             alt={theme === "dark-mode" ? "Light mode" : "Dark mode"}
             className="theme-icon"
           />
