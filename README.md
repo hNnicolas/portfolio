@@ -62,8 +62,8 @@ Création d'animations 3D et d'interfaces interactives pour des projets web. Uti
 Si vous êtes intéressé par mon profil, mes projets, ou souhaitez discuter d'opportunités d'alternance ou de collaboration, n'hésitez pas à me contacter via les informations ci-dessous.
 
 - **Email** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com)
-- **LinkedIn** : [linkedin.com/in/nicolashuang](https://linkedin.com/in/nicolashuang)
-- **GitHub** : [github.com/nicolashuang](https://github.com/nicolashuang)
+- **LinkedIn** : [linkedin.com/in/huang-nicolas](https://www.linkedin.com/in/huang-nicolas/)
+- **GitHub** : [github.com/hNnicolas](https://github.com/hNnicolas)
 
 ---
 
@@ -77,5 +77,4 @@ Si vous êtes intéressé par mon profil, mes projets, ou souhaitez discuter d'o
 - **CSS3**
 - **Next.js** 
 - **Node.js**
-
 
