@@ -41,24 +41,6 @@ Un projet immersif où vous explorez une maison hantée interactive avec des ani
 - Animation des objets en fonction des actions de l'utilisateur
 - Optimisation des performances avec des rendus en temps réel
 
-### 2. [**Portfolio Personnel**](#)  
-Ce portfolio utilise des technologies front-end modernes pour présenter mes projets, mes compétences et mon parcours professionnel.
-
-**Fonctionnalités :**
-- Section de présentation avec animations CSS et JavaScript
-- Intégration de mon CV au format PDF et image pour le téléchargement
-- Interface utilisateur moderne et fluide
-
-### 3. [**Projets 3D**](#)  
-Création d'animations 3D et d'interfaces interactives pour des projets web. Utilisation de **Three.js** et **WebGL** pour des rendus immersifs sur navigateur.
-
-**Fonctionnalités :**
-- Visualisation de modèles 3D en temps réel
-- Contrôles interactifs pour l'exploration des scènes 3D
-- Intégration dans des sites web en utilisant des composants React
-
-## Contact
-
 Si vous êtes intéressé par mon profil, mes projets, ou souhaitez discuter d'opportunités d'alternance ou de collaboration, n'hésitez pas à me contacter via les informations ci-dessous.
 
 - **Email** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com)
