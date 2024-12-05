@@ -19,7 +19,8 @@ Passionné par la création d'**animations 3D**, je cherche constamment à repou
 - **Tailwind CSS** 
 
 ### Animations 3D
-- **Three.js** 
+- **Three.js**
+- **WebGL**
 
 ### Back-End
 - **Node.js** 
