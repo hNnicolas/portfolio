@@ -4,7 +4,7 @@ Bienvenue sur mon portfolio ! Je suis **Nicolas Huang**, un développeur junior 
 
 ## À propos
 
-Je suis actuellement en formation chez **OpenClassrooms**, où je développe mes compétences en **développement web**. Je m'intéresse particulièrement aux **technologies front-end** telles que **JavaScript**, **React.js**, et **Three.js**, que j’utilise pour créer des expériences interactives et immersives sur le web.
+Je développe mes compétences en **développement web**. Je m'intéresse particulièrement aux **technologies front-end** telles que **JavaScript**, **React.js**, et **Three.js**, que j’utilise pour créer des expériences interactives et immersives sur le web.
 
 Passionné par la création d'**animations 3D**, je cherche constamment à repousser mes limites pour apprendre de nouvelles techniques et contribuer à des projets innovants. En parallèle de mes études, je suis à la recherche d'une **alternance** pour mettre en pratique mes compétences et enrichir mon expérience professionnelle.
 
