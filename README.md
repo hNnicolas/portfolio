@@ -27,15 +27,7 @@ The site features a floating laptop model with an interactive iFrame of my stand
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/eli-parker/eli-parker.github.io.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd eli-parker.github.io
-    ```
-3. Install dependencies:
+1. Install dependencies:
     ```bash
     npm install
     ```
