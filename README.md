@@ -15,7 +15,7 @@ The site features a floating laptop model with an interactive iFrame of my stand
 - **Magic Cube**: A 3D box with geometrically impossible holes on its' sides in multiple pages, showcasing the power and design capability within Three.js. Used both on the homepage and in the projects page
 
 #### Secrets
-- if you input #debug at the end of the [url](https://eliparker.dev/#debug), it'll bring up the debug controls for the project! Fun little easter egg, huh? 😉
+- if you input #debug at the end of the [url](https://nicolas-huang.netlify.app/#debug), it'll bring up the debug controls for the project! Fun little easter egg, huh? 😉
 
 ## Tech Stack
 
@@ -73,8 +73,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to reach out if you have any questions or suggestions! I'm always trying to improve and learn more.
 
-- Email: [EliParkDev@icloud.com](mailto:EliParkDev@icloud.com)
-- GitHub: [eli-parker](https://github.com/eli-parker)
+- Email: [huang.nicola@gmail.com](mailto:huang.nicola@gmail.comm)
+- GitHub: [hNicolas](https://github.com/hNnicolas)
 
 ## Credits
 
