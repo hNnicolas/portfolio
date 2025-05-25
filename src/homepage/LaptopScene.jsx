@@ -111,7 +111,7 @@ const LaptopScene = forwardRef(({}, ref) => {
           rotation-x={-0.256}
           occlude="blending"
         >
-          <iframe src="https://nicolas-huang.netlify.app/" />
+          <iframe src="https://nicolashuang.netlify.app/" />
         </Html>
       </group>
 
